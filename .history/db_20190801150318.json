@@ -8,57 +8,57 @@
       "extension": "xlsx"
     },
     {
-      "name": "doc2.docx",
+      "name": "doc2.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
       "modifiedBy": "Joe Smith",
-      "extension": "docx"
+      "extension": "xlsx"
     },
     {
-      "name": "doc3.pptx",
+      "name": "doc3.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
       "modifiedBy": "Billy Stephens",
-      "extension": "pptx"
+      "extension": "xlsx"
     },
     {
-      "name": "doc4.one",
+      "name": "doc4.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Gloria Moore",
-      "extension": "one"
+      "modifiedBy": "Darryl Jones",
+      "extension": "xlsx"
     },
     {
-      "name": "doc5.csv",
+      "name": "doc5.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Lisa Silva",
-      "extension": "csv"
+      "modifiedBy": "Darryl Jones",
+      "extension": "xlsx"
     },
     {
-      "name": "doc6.docx",
+      "name": "doc6.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Gloria Alexander",
-      "extension": "docx"
+      "modifiedBy": "Darryl Jones",
+      "extension": "xlsx"
     },
     {
       "name": "doc7.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Brian Bell",
+      "modifiedBy": "Darryl Jones",
       "extension": "xlsx"
     },
     {
-      "name": "doc8.vsdx",
+      "name": "doc8.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Stephanie Wells",
-      "extension": "vsdx"
-    },
-    {
-      "name": "doc9.docx",
-      "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Judy Hayes",
+      "modifiedBy": "Darryl Jones",
       "extension": "xlsx"
     },
     {
-      "name": "doc10.docx",
+      "name": "doc9.xlsx",
       "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
-      "modifiedBy": "Robert May",
+      "modifiedBy": "Darryl Jones",
+      "extension": "xlsx"
+    },
+    {
+      "name": "doc10.xlsx",
+      "modifiedDate": "Thu Aug 01 2019 14:37:01 GMT-0600",
+      "modifiedBy": "Darryl Jones",
       "extension": "xlsx"
     }
   ]
