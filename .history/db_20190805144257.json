@@ -2,70 +2,60 @@
   "token": { "authToken": "abc1234" },
   "documents": [
     {
-      "id": 100,
       "name": "doc1.xlsx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Darryl Jones",
       "extension": "xlsx"
     },
     {
-      "id": 101,
       "name": "doc2.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Joe Smith",
       "extension": "docx"
     },
     {
-      "id": 102,
       "name": "doc3.pptx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Billy Stephens",
       "extension": "pptx"
     },
     {
-      "id": 103,
       "name": "doc4.one",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Gloria Moore",
       "extension": "one"
     },
     {
-      "id": 104,
       "name": "doc5.csv",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Lisa Silva",
       "extension": "csv"
     },
     {
-      "id": 105,
       "name": "doc6.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Gloria Alexander",
       "extension": "docx"
     },
     {
-      "id": 106,
       "name": "doc7.xlsx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Brian Bell",
       "extension": "xlsx"
     },
     {
-      "id": 107,
       "name": "doc8.vsdx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Stephanie Wells",
       "extension": "vsdx"
     },
     {
-      "id": 108,
       "name": "doc9.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Judy Hayes",
       "extension": "xlsx"
     },
     {
-      "id": 109,
       "name": "doc10.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
       "modifiedBy": "Robert May",
