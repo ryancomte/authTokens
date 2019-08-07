@@ -2,31 +2,28 @@
   "token": { "authToken": "abc1234" },
   "locations": ["Location 1", "Location 2", "Location 3"],
   "folders": [
-    { "id": 1111, "name": "Folder 1", "type": "SP.Folder" },
-    { "id": "abc1234", "name": "Folder 2", "type": "SP.Folder" },
-    { "id": 5555, "name": "Folder 3", "type": "SP.Folder" }
+    { "id": 1111, "name": "Folder 1", "type": "folder" },
+    { "id": "abc1234", "name": "Folder 2", "type": "folder" },
+    { "id": 5555, "name": "Folder 3", "type": "folder" }
   ],
   "folderContents": [
     {
       "id": 101,
       "name": "subdoc.xlsx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Darryl Jones",
-      "type": "SP.File"
+      "modifiedBy": "Darryl Jones"
     },
     {
       "id": 102,
       "name": "subdoc1.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Joe Smith",
-      "type": "SP.File"
+      "modifiedBy": "Joe Smith"
     },
     {
       "id": 103,
       "name": "subdoc2.pptx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Billy Stephens",
-      "type": "SP.File"
+      "modifiedBy": "Billy Stephens"
     }
   ],
   "documents": [
@@ -34,71 +31,61 @@
       "id": 1,
       "name": "doc1.xlsx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Darryl Jones",
-      "type": "SP.File"
+      "modifiedBy": "Darryl Jones"
     },
     {
       "id": 2,
       "name": "doc2.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Joe Smith",
-      "type": "SP.File"
+      "modifiedBy": "Joe Smith"
     },
     {
       "id": 3,
       "name": "doc3.pptx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Billy Stephens",
-      "type": "SP.File"
+      "modifiedBy": "Billy Stephens"
     },
     {
       "id": 4,
       "name": "doc4.one",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Gloria Moore",
-      "type": "SP.File"
+      "modifiedBy": "Gloria Moore"
     },
     {
       "id": 5,
       "name": "doc5.csv",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Lisa Silva",
-      "type": "SP.File"
+      "modifiedBy": "Lisa Silva"
     },
     {
       "id": 6,
       "name": "doc6.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Gloria Alexander",
-      "type": "SP.File"
+      "modifiedBy": "Gloria Alexander"
     },
     {
       "id": 7,
       "name": "doc7.xlsx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Brian Bell",
-      "type": "SP.File"
+      "modifiedBy": "Brian Bell"
     },
     {
       "id": 8,
       "name": "doc8.vsdx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Stephanie Wells",
-      "type": "SP.File"
+      "modifiedBy": "Stephanie Wells"
     },
     {
       "id": 9,
       "name": "doc9.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Judy Hayes",
-      "type": "SP.File"
+      "modifiedBy": "Judy Hayes"
     },
     {
       "id": 10,
       "name": "doc10.docx",
       "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Robert May",
-      "type": "SP.File"
+      "modifiedBy": "Robert May"
     }
   ]
 }
