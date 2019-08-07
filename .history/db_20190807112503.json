@@ -6,7 +6,7 @@
     { "id": "abc1234", "name": "Folder 2" },
     { "id": 5555, "name": "Folder 3" }
   ],
-  "folderContents": [
+  "documentContents": [
     {
       "id": 101,
       "name": "subdoc.xlsx",

@@ -1,31 +1,6 @@
 {
   "token": { "authToken": "abc1234" },
   "locations": ["Location 1", "Location 2", "Location 3"],
-  "folders": [
-    { "id": 1111, "name": "Folder 1" },
-    { "id": "abc1234", "name": "Folder 2" },
-    { "id": 5555, "name": "Folder 3" }
-  ],
-  "folderContents": [
-    {
-      "id": 101,
-      "name": "subdoc.xlsx",
-      "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Darryl Jones"
-    },
-    {
-      "id": 102,
-      "name": "subdoc1.docx",
-      "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Joe Smith"
-    },
-    {
-      "id": 103,
-      "name": "subdoc2.pptx",
-      "modifiedDate": "2014-04-25T01:32:21.196+0600",
-      "modifiedBy": "Billy Stephens"
-    }
-  ],
   "documents": [
     {
       "id": 1,
