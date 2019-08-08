@@ -2,7 +2,7 @@
   "token": { "authToken": "abc1234" },
   "locations": [
     {
-      "name": "Location 1",
+      "name": "Rhett Test",
       "description": null,
       "id": "5a6a1582-b7b3-e911-a982-000d3a18cdb5",
       "permissions": {
@@ -14,32 +14,8 @@
         "AppendTo": false
       }
     },
-    {
-      "name": "Location 2",
-      "description": null,
-      "id": "5a6a1582-b7b3-e911-a982-000d3a11ghb8",
-      "permissions": {
-        "Read": true,
-        "Create": true,
-        "Append": true,
-        "Write": true,
-        "Delete": false,
-        "AppendTo": false
-      }
-    },
-    {
-      "name": "Location 3",
-      "description": null,
-      "id": "5a6a1582-b7b3-e911-a982-000d3a1312cd",
-      "permissions": {
-        "Read": true,
-        "Create": true,
-        "Append": true,
-        "Write": true,
-        "Delete": false,
-        "AppendTo": false
-      }
-    }
+    "Location 2",
+    "Location 3"
   ],
   "folders": [
     { "id": 1111, "name": "Folder 1", "type": "SP.Folder" },

@@ -15,9 +15,9 @@
       }
     },
     {
-      "name": "Location 2",
+      "name": "Rhett Test",
       "description": null,
-      "id": "5a6a1582-b7b3-e911-a982-000d3a11ghb8",
+      "id": "5a6a1582-b7b3-e911-a982-000d3a18cdb5",
       "permissions": {
         "Read": true,
         "Create": true,
@@ -28,9 +28,9 @@
       }
     },
     {
-      "name": "Location 3",
+      "name": "Rhett Test",
       "description": null,
-      "id": "5a6a1582-b7b3-e911-a982-000d3a1312cd",
+      "id": "5a6a1582-b7b3-e911-a982-000d3a18cdb5",
       "permissions": {
         "Read": true,
         "Create": true,
